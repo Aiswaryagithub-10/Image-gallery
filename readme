@@ -1,0 +1,11 @@
+Perfume Gallery
+This is a Perfume Gallery website built using basic HTML and CSS. The project displays a collection of perfumes in a grid layout, showcasing product images, names, and descriptions.
+
+Features:
+Responsive design with a perfume grid layout
+Simple and clean design using basic HTML and CSS
+Each perfume has an image, name, and short description
+Hover effects for enhanced user experience
+Technologies Used
+HTML5: Structuring the webpage.
+CSS3: Styling and layout design.
